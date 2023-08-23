@@ -1,10 +1,11 @@
 # Machine Learning Music Prediction Model; The Work Flow
 
  
-
-![Work Flow](https://github.com/Nahsc0/machine-learning-music-prediction-model/assets/106038656/14a694c1-ef4c-4d3c-952b-06ec24751dac)
-
   
+![Work Floww](https://github.com/Nahsc0/machine-learning-music-prediction-model/assets/106038656/f9a6fad2-f586-466a-b700-2354502c1c93)
+
+
+
 
 This repository contains a machine learning prediction model that uses the `sklearn.tree` DecisionTreeClassifier algorithm. The model predicts the type of music a person will like based on their age and gender.
 
